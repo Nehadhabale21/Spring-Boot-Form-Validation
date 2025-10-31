@@ -1,6 +1,8 @@
 # 🧾 Spring Boot Form Validation 
 
-This is a simple **Spring Boot + Thymeleaf** project demonstrating how to perform **server-side form validation** using **Jakarta Validation** annotations.
+**Spring Boot Form Validation** is a simple and practical **Spring Boot + Thymeleaf** web application that demonstrates how to perform **form validation** using **Jakarta Bean Validation**.
+
+It showcases how to validate user input fields such as **username**, **email**, and **checkboxes**, display meaningful **error messages**, and handle data submission gracefully — all using **Spring Boot’s validation framework** integrated with **Thymeleaf templates** and **Bootstrap** for responsive styling.
 
 ---
 
