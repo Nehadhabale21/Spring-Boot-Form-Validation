@@ -18,21 +18,37 @@ This is a simple **Spring Boot + Thymeleaf** project demonstrating how to perfor
 ## 🏗️ Project Structure
 
 BootSpringValidation/
+
 │
+
 ├── src/main/java/com/validate/
+
 │ ├── BootSpringValidationApplication.java # Main application entry point
+
 │ ├── controller/
+
 │ │ └── MyController.java # Handles form routes and validation
+
 │ └── entities/
+
 │ └── LoginData.java # Model class with validation annotations
+
 │
+
 ├── src/main/resources/
+
 │ ├── templates/
+
 │ │ ├── form.html # Form page with validation feedback
+
 │ │ └── success.html # Success page
+
 │ └── application.properties # Spring Boot configuration (optional)
+
 │
+
 ├── pom.xml # Maven dependencies and configuration
+
 └── README.md # Project documentation
 
 
